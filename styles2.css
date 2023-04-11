@@ -1,0 +1,153 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+body,
+html {
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color:white;
+}
+
+/* img {
+    padding: 0;
+    border: none;
+    background: none;
+    height: 250px;
+    position: absolute;
+} */
+
+#daymode {
+	text-align: right;
+}
+
+#dayref {
+	color: #f9f84eff;
+	text-decoration: none;
+	font-size: 60px;
+}
+
+input {
+    display: block;
+    padding: 0;
+    border: none;
+    background: none;
+	height: 300px;
+	padding-right: 60px;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
+.row {
+	display: flex;
+	padding-bottom: 40px;
+}
+
+.input-wrapper {
+	flex: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	margin: 10px;
+}
+
+#image {
+    display: none;
+}
+
+#gotika {
+    top: 87px;
+    left: 250px;
+    display: none;
+}
+
+#bgotika {
+    top: 87px;
+    left: 250px;
+}
+
+#barokk {
+    top: 87px;
+    left: 490px;
+    display: none;
+}
+
+#bbarokk {
+    top: 87px;
+    left: 490px;
+}
+
+#neogotika {
+    top: 87px;
+    left: 730px;
+    display: none;
+}
+
+#bneogotika {
+    top: 87px;
+    left: 730px;
+}
+
+#posztmodern {
+    top: 87px;
+    left: 970px;
+    display: none;
+}
+
+#bposztmodern {
+    top: 87px;
+    left: 970px;
+}
+
+#okor {
+    top: 400px;
+    left: 250px;
+    display: none;
+}
+
+#bokor {
+    top: 400px;
+    left: 250px;
+}
+
+#reneszansz {
+    top: 400px;
+    left: 490px;
+    display: none;
+}
+
+#breneszansz {
+    top: 400px;
+    left: 490px;
+}
+
+#klasszicizmus {
+    top: 400px;
+    left: 730px;
+    display: none;
+}
+
+#bklasszicizmus {
+    top: 400px;
+    left: 730px;
+}
+
+#modern {
+    top: 400px;
+    left: 970px;
+    display: none;
+}
+
+#bmodern {
+    top: 400px;
+    left: 970px;
+}
