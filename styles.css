@@ -12,8 +12,8 @@ input {
 	padding: 0;
 	border: none;
 	background: none;
-	height: 300px;
-	padding-right: 60px;
+	height: 30vh;
+	padding-right: 6vh;
 }
 
 .container {
@@ -26,7 +26,7 @@ input {
 
 .row {
 	display: flex;
-	padding-bottom: 40px;
+	padding-bottom: 4vh;
 }
 
 .input-wrapper {
@@ -35,7 +35,7 @@ input {
 	justify-content: center;
 	align-items: center;
 	height: 100%;
-	margin: 10px;
+	margin: 1vh;
 }
 
 h1 {
